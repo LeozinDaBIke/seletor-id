@@ -1,12 +1,11 @@
-# seletor-id<!DOCTYPE html>
+<!DOCTYPE html>
   <html>
       <head>
           <style>
             #para1 {
                 text-align: cente;
                 color: red;  
-}
-
+            }
           </style>
         </head>
 <body>
